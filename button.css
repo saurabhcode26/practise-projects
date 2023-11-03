@@ -1,0 +1,121 @@
+.uber-button{
+    background-color: black;
+    color:aliceblue;
+   padding-left: 20;
+   padding-right: 20;
+   padding-top: 15;
+   padding-bottom: 15;
+    border: none;
+    cursor: pointer;
+    transition:opacity 0.8s;
+
+}
+.uber-button:hover{
+    opacity: 0.8;
+}
+.amazon{
+    background-color: rgb(255,216,20);
+    border: none;
+    padding-left: 25;
+    padding-right: 25;
+    padding-top: 15;
+    padding-bottom: 15;
+    border-radius: 18px;
+    cursor: pointer;
+    margin-left: 24;
+}
+.amazon:hover{
+    background-color:rgb(245, 205, 3) ;
+}
+.github{
+    background-color: rgb(46,164,79);
+    border: none;
+   padding-left:18;
+   padding-right: 18;
+   padding-top: 15;
+   padding-bottom: 15;
+    color: aliceblue;
+    border-radius:  8px;
+    margin-left: 40;
+    cursor: pointer;
+    font-weight: bold;
+    transition: box-shadow 0.15s;
+}
+.github:hover{
+    box-shadow:  0px 5px 8px rgba(0, 0, 0, 0.15);
+}
+.hello{
+    background-color: rgb(121,82,179);
+    border: none;
+    color: aliceblue;
+   padding-left: 25;
+   padding-right: 25;
+   padding-top: 15;
+   padding-bottom: 15;
+    font-weight: bolder;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 50;
+    transition: background-color 0.15s;
+
+}
+.hello:hover{
+    background-color:rgb(99, 60, 156) ;
+}
+.bye{
+    background-color:white;
+    
+    color: rgb(108,117,125);
+    border-color: rgb(108,117,125);
+   padding-left: 25;
+   padding-right: 25;
+   padding-top: 15;
+   padding-bottom: 15;
+    border-radius: 4px;
+    border-width: 1px;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: background-color 0.15s,color 0.15s;
+    
+
+}
+.bye:hover{
+    background-color:rgb(108,117,125) ;
+    color: white;
+}
+.link{
+    background-color: rgb(10,102,194);
+    border: none;
+   padding-left: 40;
+   padding-right: 40;
+   padding-top: 12;
+   padding-bottom: 12;
+    border-radius: 20px;
+    color: aliceblue;
+    font-weight: bolder;
+    margin-left: 50px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+.link:hover{
+    background-color: rgb(2, 70, 138);;
+
+}
+.down{
+    background-color: white;
+    border-color:rgb(10,102,194);
+    border-style: bold;
+   padding-left: 35;
+   padding-right: 35;
+   padding-top: 10;
+   padding-bottom: 10;
+    border-radius: 20px;
+    color: rgb(10,102,194);
+    font-weight: bolder;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+.down:hover{
+    background-color: rgb(226, 240, 254);
+    
+}
